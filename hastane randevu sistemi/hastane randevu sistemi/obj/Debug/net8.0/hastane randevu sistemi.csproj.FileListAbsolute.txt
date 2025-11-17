@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\net8.0\hastane randevu sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\net8.0\hastane randevu sistemi.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\net8.0\hastane randevu sistemi.AssemblyInfo.cs
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\net8.0\hastane randevu sistemi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\bin\Debug\net8.0\hastane randevu sistemi.exe
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\bin\Debug\net8.0\hastane randevu sistemi.deps.json
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\bin\Debug\net8.0\hastane randevu sistemi.runtimeconfig.json
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\bin\Debug\net8.0\hastane randevu sistemi.dll
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\bin\Debug\net8.0\hastane randevu sistemi.pdb
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\net8.0\hastane randevu sistemi.dll
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\net8.0\refint\hastane randevu sistemi.dll
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\net8.0\hastane randevu sistemi.pdb
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\net8.0\hastane randevu sistemi.genruntimeconfig.cache
+C:\Users\USER\Documents\kod ögreniyorum\hastane randevu sistemi\hastane randevu sistemi\obj\Debug\net8.0\ref\hastane randevu sistemi.dll
